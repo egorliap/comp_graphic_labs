@@ -1,6 +1,6 @@
 x64/
-Debug/
-Release/
 .vs/
 *.filters
 *.user
+!/x64/
+!/x64/
